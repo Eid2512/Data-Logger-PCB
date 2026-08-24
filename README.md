@@ -78,19 +78,15 @@ The design includes:
 * Mounting holes
 * Gerber and drill manufacturing outputs
 
-## Schematic
-
-![Data Logger Schematic](images/schematic.png)
-
-The schematic contains the MCU, external memory, RTC, power circuitry, clock circuitry, indicators, and expansion interfaces.
-
 ## PCB Layout
 
 ![PCB Layout](images/pcb-layout.png)
 
 ## 3D View
 
-![PCB 3D View](images/pcb-3d-view.png)
+![PCB 3D Front View](images/pcb-3d-front.png)
+
+![PCB 3D Back View](images/pcb-3d-back.png)
 
 ## Expansion Interfaces
 
